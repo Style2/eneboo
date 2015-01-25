@@ -21,3 +21,6 @@ titulo1
 
 ##COMO INDEXAR UNAS INSTRUCCIONES-PASO-A-PASO
 ...visto que el cambio anterior me lo ha "enganchado" todo, vamos a probar borrando los números que he puesto y añadiendo "1. " delante de cada línea...
+
+##COMO COORDINAR LA COPIA LOCAL Y LA DEL WEB GITHUB
+
