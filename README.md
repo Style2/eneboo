@@ -1,4 +1,4 @@
-# eneboo
+﻿# eneboo
 Eneboo para probar de todo (manuales, extensiones, etc)
 titulo1
 #titulo2
@@ -30,3 +30,22 @@ titulo1
 2. Escribir: 
  * para "traer" a la copia local los cambios de la copia-"master" del servidor github ponemos: "git pull https://github.com/Miguel-J/eneboo"
  * OJO: El PULL hay que hacerlo DESDE EL DIRECTORIO DONDE QUIERES QUE DESCARGUE los archivos....si no es donde estás poner "cd (subdirectorio)" hasta situarse en el correcto...
+ * para "subir" la copia local a la copia-"master" del servidor github ponemos: "git push https://github.com/Miguel-J/eneboo master"
+ * OJO: hay que añadir esa palabra "master" al final de la dirección para indicarle que el que manda es el del servidor...
+ * Habrá que poner el USUARIO y PASSWORD de la cuenta propia en el GITHUB
+
+
+## EL INDICE DE LA DERECHA
+En la parte superior derecha de cada página verás un índice que nos permite acceder directamente a cada una de ellas. Este índice no se genera de forma automática, sino que hay que editarlo.
+
+Podemos hacerlo cuando pulsamos el botón _Edit Page_. Iremos al final de la página y pulsaremos en la flecha hacia abajo que hay junto _Sidebar_. Ahí podemos añadir o modificar los enlaces del índice como hemos explicado en la sección [La barra de botones de edición](#la-barra-de-botones-de-edici%C3%B3n) para el caso de enlaces a páginas del mismo wiki.
+
+**Nota:** Cuando crees una página nueva verás que no aparece el índice. Esto es porque el wiki por defecto crea la página en el directorio raíz del repositorio del wiki, donde no le afecta el archivo _Sidebar.md que contiene el índice, ya que este archivo está en el directorio _standard_. Para que se muestre el índice debes hacer lo siguiente:
+
+1. Bájate con _git_ el repositorio del wiki ejecutando:
+ * "git clone https://github.com/eneboo/doc.wiki.git"
+1. Mueve la página al directorio _standard_ con:
+ * "git mv \[Eneboo-Standard\]-Nombre-de-la-pagina.md standard/"
+1. Haz _commit_ y _push_.
+
+Si tienes problemas para hacer esto coméntalo en el [foro](https://groups.google.com/forum/#!forum/eneboo), te echaremos una mano.
