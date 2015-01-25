@@ -27,10 +27,18 @@ titulo1
 
 ##COMO COORDINAR LA COPIA LOCAL Y LA DEL WEB GITHUB
 1. Vas ARRIBA-DERECHA a la rueda dentada y le das a "OPEN IN GIT SHELL", entonces se abre una ventana parecida al MSDOS de windows con unas letras en colores entre corchetes...
-2. Escribir: 
- * para "traer" a la copia local los cambios de la copia-"master" del servidor github ponemos: "git pull https://github.com/Miguel-J/eneboo"
+1. Para "TRAER" a la copia local los cambios de la copia-"master" del servidor github ponemos:
+ * "git pull https://github.com/Miguel-J/eneboo"
  * OJO: El PULL hay que hacerlo DESDE EL DIRECTORIO DONDE QUIERES QUE DESCARGUE los archivos....si no es donde estás poner "cd (subdirectorio)" hasta situarse en el correcto...
- * para "subir" la copia local a la copia-"master" del servidor github ponemos: "git push https://github.com/Miguel-J/eneboo master"
+1. Para "SUBIR" la copia local MODIFICADA a la copia-"master" del servidor github ponemos:
+ * Primero hay que decirle al programa quien somos...:
+  * "git config user.mail "miguelajsmaps@gmail.com" "(o la cuenta email de cada uno)
+  * "git config user.name "Miguel-J" "(o el nombre de usuario de cada uno)
+ * ...luego hay que decirle que hemos cambiado cosas de los archivos...:
+  * "git commit -a" (esto solo vale si no hemos creado ningún archivo)
+  * "git add (nombre del archivo)" (para cada archivo nuevo)
+ * ...y ahora hay que decirle que SUBA esos cambios:
+ * "git push https://github.com/Miguel-J/eneboo master"
  * OJO: hay que añadir esa palabra "master" al final de la dirección para indicarle que el que manda es el del servidor...
  * Habrá que poner el USUARIO y PASSWORD de la cuenta propia en el GITHUB
 
