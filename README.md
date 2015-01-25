@@ -32,15 +32,15 @@ titulo1
  * OJO: El PULL hay que hacerlo DESDE EL DIRECTORIO DONDE QUIERES QUE DESCARGUE los archivos....si no es donde estás poner "cd (subdirectorio)" hasta situarse en el correcto...
 1. Para "SUBIR" la copia local MODIFICADA a la copia-"master" del servidor github ponemos:
  1. Primero hay que decirle al programa quien somos...:
-  * "git config user.mail "miguelajsmaps@gmail.com" "(o la cuenta email de cada uno)
-  * "git config user.name "Miguel-J" "(o el nombre de usuario de cada uno)
+    * "git config user.mail "miguelajsmaps@gmail.com" "(o la cuenta email de cada uno)
+    * "git config user.name "Miguel-J" "(o el nombre de usuario de cada uno)
  1. ...luego hay que decirle que hemos cambiado cosas de los archivos...:
-  * "git commit -a" (esto solo vale si no hemos creado ningún archivo)
-  * "git add (nombre del archivo)" (para cada archivo nuevo)
+    * "git commit -a" (esto solo vale si no hemos creado ningún archivo)
+    * "git add (nombre del archivo)" (para cada archivo nuevo)
  1. ...y ahora hay que decirle que SUBA esos cambios:
-  * "git push https://github.com/Miguel-J/eneboo master"
-  * OJO: hay que añadir esa palabra "master" al final de la dirección para indicarle que el que manda es el del servidor...
-  * Habrá que poner el USUARIO y PASSWORD de la cuenta propia en el GITHUB
+    * "git push https://github.com/Miguel-J/eneboo master"
+    * OJO: hay que añadir esa palabra "master" al final de la dirección para indicarle que el que manda es el del servidor...
+    * Habrá que poner el USUARIO y PASSWORD de la cuenta propia en el GITHUB
 
 
 ## EL INDICE DE LA DERECHA
