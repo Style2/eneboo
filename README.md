@@ -1,15 +1,14 @@
 Eneboo para probar de todo (manuales, extensiones, etc). Sobre todo para WINDOWS.
+Si quieres participar en la edición de este manual o por otras preguntas, envía un mensaje a: miguelajsmaps@gmail.com
 ##INDICE
 1. [Pagina principio de este repositorio](https://github.com/Miguel-J/eneboo)
-
 1. [Pagina inicio de este wiki](https://github.com/Miguel-J/eneboo/wiki)
-
     A. [principio2](https://github.com/Miguel-J/eneboo)
 
-####USUARIO:
+####PARA EL USUARIO:
 1. [Primeros pasos-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Primeros-pasos-(sacado-de-ABANQ))
 
-####PROGRAMACION:
+####PARA LA PROGRAMACION:
 1. [Programación 1-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Programaci%C3%B3n-1-(sacado-de-ABANQ))
 
 
