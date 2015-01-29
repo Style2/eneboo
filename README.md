@@ -1,13 +1,10 @@
 ﻿# eneboo
 Eneboo para probar de todo (manuales, extensiones, etc). Sobre todo para WINDOWS.
-
 #INDICE
 1.-[principio](https://github.com/Miguel-J/eneboo)
+
 1.-[wiki](https://github.com/Miguel-J/eneboo/wiki)
 
-##titulo3
-###titulo4
-####titulo5
 
 #COMO COPIAR EL GITHUB EN EL ORDENADOR DE CASA
 1. Cuando estas en una pagina de github, ABAJO-DERECHA hay un botón que pone "CLONE IN DESKTOP", entonces le das y empieza a DESCARGAR un ejecutable...
