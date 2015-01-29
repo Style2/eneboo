@@ -1,9 +1,8 @@
-﻿# eneboo
 Eneboo para probar de todo (manuales, extensiones, etc). Sobre todo para WINDOWS.
-#INDICE
+##INDICE
 1. [Pagina principio de este repositorio](https://github.com/Miguel-J/eneboo)
 
-1. [Pagina inicio de este wiki](https://github.com/Miguel-J/eneboo)
+1. [Pagina inicio de este wiki](https://github.com/Miguel-J/eneboo/wiki)
 
     A. [principio2](https://github.com/Miguel-J/eneboo)
 
@@ -14,7 +13,7 @@ Eneboo para probar de todo (manuales, extensiones, etc). Sobre todo para WINDOWS
 1. [Programación 1-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Programaci%C3%B3n-1-(sacado-de-ABANQ))
 
 
-#COMO COPIAR EL GITHUB EN EL ORDENADOR DE CASA
+##COMO COPIAR EL GITHUB EN EL ORDENADOR DE CASA
 1. Cuando estas en una pagina de github, ABAJO-DERECHA hay un botón que pone "CLONE IN DESKTOP", entonces le das y empieza a DESCARGAR un ejecutable...
 1. Aceptas el ejecutable y se instala.
 1. Eliges un directorio de trabajo en el ordenador local
