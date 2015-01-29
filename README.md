@@ -1,7 +1,10 @@
 ﻿# eneboo
-Eneboo para probar de todo (manuales, extensiones, etc)
-titulo1
-#titulo2
+Eneboo para probar de todo (manuales, extensiones, etc). Sobre todo para WINDOWS.
+
+#INDICE
+1.-[principio](https://github.com/Miguel-J/eneboo)
+1.-[wiki](https://github.com/Miguel-J/eneboo/wiki)
+
 ##titulo3
 ###titulo4
 ####titulo5
