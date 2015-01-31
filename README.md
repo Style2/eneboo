@@ -11,7 +11,7 @@ Si quieres participar en la edición de este manual o por otras preguntas, enví
 1. [Primeros pasos-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Primeros-pasos-(sacado-de-ABANQ))
 
 ####PARA LA PROGRAMACION:
-1. [GITHUB:-COMO-INSTALARLO-Y-USARLO](https://github.com/Miguel-J/eneboo/wiki/GITHUB:-COMO-INSTALARLO-Y-USARLO)
+1. [GITHUB-COMO-INSTALARLO-Y-USARLO](https://github.com/Miguel-J/eneboo/wiki/GITHUB-COMO-INSTALARLO-Y-USARLO)
 1. [Programación 1-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Programaci%C3%B3n-1-(sacado-de-ABANQ))
 1. [Documentar extensiones-GESTIWEB](https://github.com/Miguel-J/eneboo/wiki/Documentar-extensiones-en-Eneboo-(GESTIWEB))
 
