@@ -14,6 +14,7 @@ Si quieres participar en la edición de este manual o por otras preguntas, enví
 1. [Instalación en linux con PostgreSQL-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Instalacion-en-linux-con-PostgreSQL)
 1. [Instalación servidor MySQL para Windows&Mac-UNIV.SEVILLA](https://github.com/Miguel-J/eneboo/wiki/Instalacion-Servidor-MySQL-UNIV.SEVILLA)
 
+1. [FACTURASCRIPTS Instalación y configuración del servidor MySQL para Windows-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/FACTURASCRIPTS---Instalaci%C3%B3n-y-configuraci%C3%B3n)
 
 --
 1. [Instalación básica-standard con PostgreSQL](https://github.com/Miguel-J/eneboo/wiki/%5BEneboo-Standard%5D-Instalaci%C3%B3n)
@@ -52,6 +53,30 @@ Si quieres participar en la edición de este manual o por otras preguntas, enví
 ---
 ####PARA LA PROGRAMACION:
 
+#####Eneboo-Tools (personalizar Eneboo):
+1. [Cómo sacar LA MEZCLA de mi base de datos](https://github.com/Miguel-J/eneboo/wiki/C%C3%B3mo-sacar-LA-MEZCLA-de-mi-base-de-datos)
+1. [EnebooTools-ENEBOO-OFICIAL](https://github.com/Miguel-J/eneboo/wiki/EnebooTools)
+1. [EnebooTools para Windows-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Eneboo-Tools-en-Windows)
+1. [EnebooTools: Instalación en Linux-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/EnebooTools---Instalaci%C3%B3n-en-linux)
+1. [EnebooTools: HACER-UN-PROYECTO-NUEVO-con-ASSEMBLER-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/eneboo-tools-HACER-UN-PROYECTO-NUEVO-con-ASSEMBLER)
+1. [Añadir una extensión a una mezcla con MergeTool](https://github.com/Miguel-J/eneboo/wiki/C%C3%B3mo-a%C3%B1adir-una-extensi%C3%B3n-a-una-mezcla-con-MergeTool)
+1. [Personalizar eneboo con las extensiones-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Personalizar-eneboo-con-las-extensiones)
+1. [Diseños de Impresión e informes: Añadir las extensiones Jasper-Reports a Eneboo](https://github.com/Miguel-J/eneboo/wiki/eneboo-reports)
+1. [extraer una extensión de un paquete que contiene muchas extensiones.-AULLA](https://github.com/Miguel-J/eneboo/wiki/Receta-para-extraer-una-extensi%C3%B3n-de-un-paquete--que-contiene-muchas-extensiones)
+1. [Documentar extensiones-GESTIWEB](https://github.com/Miguel-J/eneboo/wiki/Documentar-extensiones-en-Eneboo-(GESTIWEB))
+1. [EXTENSIONES-agrupadas-por-tipos-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/EXTENSIONES-agrupadas-por-tipos)
+
+---
+#####Lenguajes de programación:
+1. [Lenguajes de programación: Introducción-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-Introducci%C3%B3n)
+1. [Lenguajes de programación: FORMS-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-FORMS)
+1. [Lenguajes de programación: QUERIES-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-QUERIES)
+1. [Lenguajes de programación: REPORTS-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-REPORTS)
+1. [Lenguajes de programación: SCRIPTS-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-SCRIPTS)
+1. [Lenguajes de programación: TABLES-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-TABLES)
+1. [Lenguajes de programación: TRANSLATIONS-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Lenguajes-de-programaci%C3%B3n.-TRANSLATIONS)
+
+---
 #####Herramientas de apoyo:
 1. [GITHUB-Como instalarlo y usarlo-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/GITHUB-COMO-INSTALARLO-Y-USARLO)
 1. [Programación 1-Estetica de tablas-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Programaci%C3%B3n-1-(sacado-de-ABANQ))
@@ -59,16 +84,6 @@ Si quieres participar en la edición de este manual o por otras preguntas, enví
 1. [Programación 3-Estructura de los Módulos-ABANQ](https://github.com/Miguel-J/eneboo/wiki/Programacion-3-Estructura-de-los-Modulos-ABANQ)
 1. [Compilar el motor-ENEBOO-OFICIAL](https://github.com/Miguel-J/eneboo/wiki/Compilar-el-motor-(ENEBOO-OFICIAL))
 1. [Instalación de HEIDI-Gestor base de datos MySQL](https://github.com/Miguel-J/eneboo/wiki/Instalacion-HEIDI-gestor-base-de-datos-MySQL)
-
-#####Eneboo-Tools (personalizar Eneboo):
-1. [EnebooTools-ENEBOO-OFICIAL](https://github.com/Miguel-J/eneboo/wiki/EnebooTools)
-1. [EnebooTools para Windows-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Eneboo-Tools-en-Windows)
-1. [EnebooTools: Instalación en Linux-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/EnebooTools---Instalaci%C3%B3n-en-linux)
-1. [EnebooTools: HACER-UN-PROYECTO-NUEVO-con-ASSEMBLER-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/eneboo-tools-HACER-UN-PROYECTO-NUEVO-con-ASSEMBLER)
-1. [Personalizar eneboo con las extensiones-MIGUELJ](https://github.com/Miguel-J/eneboo/wiki/Personalizar-eneboo-con-las-extensiones)
-1. [Diseños de Impresión e informes: Añadir las extensiones Jasper-Reports a Eneboo](https://github.com/Miguel-J/eneboo/wiki/eneboo-reports)
-1. [extraer una extensión de un paquete que contiene muchas extensiones.-AULLA](https://github.com/Miguel-J/eneboo/wiki/Receta-para-extraer-una-extensi%C3%B3n-de-un-paquete--que-contiene-muchas-extensiones)
-1. [Documentar extensiones-GESTIWEB](https://github.com/Miguel-J/eneboo/wiki/Documentar-extensiones-en-Eneboo-(GESTIWEB))
 
 ---
 ####REPOSITORIOS DE ENEBOO:
@@ -88,7 +103,7 @@ Si quieres participar en la edición de este manual o por otras preguntas, enví
 1. [Página de la Wikipedia de AbanQ](https://es.wikipedia.org/wiki/Abanq)
 1. [Página de la Wikipedia de FacturaScripts](https://es.wikipedia.org/wiki/FacturaScripts)
 
-
+---
 
 ##COMO COPIAR EL GITHUB EN EL ORDENADOR DE CASA
 1. Cuando estas en una pagina de github, ABAJO-DERECHA hay un botón que pone "CLONE IN DESKTOP", entonces le das y empieza a DESCARGAR un ejecutable...
